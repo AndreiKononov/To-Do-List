@@ -1,2 +1,2 @@
 # To-Do-List
-simple app base on AngularJS
+simple app based on AngularJS
